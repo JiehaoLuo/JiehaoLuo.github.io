@@ -18,8 +18,7 @@ I am pursuing my B.S. degree in Internet of Things Engineering at South China No
 ## Research Interests
 
 - **3D Perception & SLAM:** Loop Closure Detection, LiDAR-based Place Recognition, Scene Flow Estimation, Moving Object Segmentation
-- **Machine Learning:** Self-Supervised Learning, Meta Learning
-- **Applied Computer Vision:** Face Recognition, Construction Vehicle Recognition, Fatigue Driving Detection
+- **Machine Learning:** Self-Supervised Learning, Meta Learning, Face Recognition
 
 <!-- ## News
 
