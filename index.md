@@ -4,9 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a postdoctoral research fellow at the School of Intelligence Science and Technology, Peking University (北京大学智能学院), working with Prof. Song-Chun Zhu. Now, I am also a researcher at the machine learning lab at Beijing Institute for General Artificial Intelligence (BIGAI, 北京通用人工智能研究院). 
-
-I am currently an undergraduate student pursuing a Bachelor's degree in Internet of Things Engineering at the School of Data Science and Engineering, South China Normal University, and supervised by Associate Professor Xiaoyu Tang. I also serve as a member of the RIS LAB(Robotic and Intelligent Sensing Lab), where I contribute to research projects focusing on Robotic sensing and Intelligent Transportation.
+I am currently an undergraduate student pursuing a Bachelor's degree in Internet of Things Engineering at the School of Data Science and Engineering, South China Normal University (华南师范大学数据科学与工程学院), and supervised by Associate Professor Xiaoyu Tang. I also serve as a member of the Robotic and Intelligent Sensing Laboratory (RIS LAB, 机器人与智能感知实验室), where I contribute to research projects focusing on Robotic sensing and Intelligent Transportation.
 
 
 **E-mail**: 20228132034@m.scnu.edu.cn and 2572148887@qq.com
