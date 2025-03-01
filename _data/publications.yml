@@ -30,7 +30,7 @@ main:
     pdf: https://link.springer.com/content/pdf/10.1007/s11554-024-01549-y.pdf
     code:  https://github.com/SCNU-RISLAB/MFDD
     image: ./assets/img/iclr2025_2.png
-    page: https://mat-agent.github.io/
+    #page: https://mat-agent.github.io/
     # notes: Post
 
 
@@ -50,7 +50,7 @@ main:
     pdf: https://drive.google.com/file/d/1lw_Rhj0efbuPapr5kFu9CWltv-BI5-He/view?usp=sharing
     # code: https://github.com/YueFan1014/VideoAgent
     image: ./assets/img/eccv2024.png
-    page: https://videoagent.github.io/
+    # page: https://videoagent.github.io/
     # notes: Post
 
 
