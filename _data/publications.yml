@@ -7,7 +7,7 @@ main:
     conference: arXiv, 2025
     pdf: https://arxiv.org/abs/2502.16907
     code: https://github.com/SCNU-RISLAB/MambaFlow
-    image: ./assets/img/cviu2025.jpg
+    image: ./assets/img/mf.png
     # page: https://mat-agent.github.io/
     # notes: Post
 
@@ -18,7 +18,7 @@ main:
     conference: arXiv, 2024
     pdf: https://arxiv.org/abs/2405.07966
     code: https://github.com/SCNU-RISLAB/OverlapMamba
-    image: ./assets/img/cviu2025.jpg
+    image: ./assets/img/olm.png
     # page: https://mat-agent.github.io/
     # notes: Post
 
@@ -29,7 +29,7 @@ main:
     conference: Journal of Real-Time Image Processing <strong>(JRIP)</strong>, 2024
     pdf: https://link.springer.com/content/pdf/10.1007/s11554-024-01549-y.pdf
     code:  https://github.com/SCNU-RISLAB/MFDD
-    image: ./assets/img/iclr2025_2.png
+    image: ./assets/img/mfdd.png
     #page: https://mat-agent.github.io/
     # notes: Post
 
@@ -39,7 +39,7 @@ main:
     conference_short: 华南师范大学学报
     conference: 华南师范大学学报, 2024.
     pdf: https://drive.google.com/file/d/1O6Z_EqfePBlPVVsptZBhrSizx07M7cGp/view?usp=drive_link
-    image: ./assets/img/cjc2024.png
+    image: ./assets/img/frcnn.png
     # notes: Post
 
 
@@ -49,7 +49,7 @@ main:
     conference: IEEE International Conference on Imaging Systems and Techniques <strong>(IST)</strong>, 2023
     pdf: https://drive.google.com/file/d/1lw_Rhj0efbuPapr5kFu9CWltv-BI5-He/view?usp=sharing
     # code: https://github.com/YueFan1014/VideoAgent
-    image: ./assets/img/eccv2024.png
+    image: ./assets/img/swin.png
     # page: https://videoagent.github.io/
     # notes: Post
 
@@ -60,6 +60,6 @@ main:
     conference: IEEE International Conference on Information Communication and Signal Processing <strong>(ICICSP)</strong>, 2023
     pdf: https://drive.google.com/file/d/1S4ZK3F10rUJ2kVstnGCjONwEzXYG_R9J/view?usp=sharing
     #code: https://github.com/clova-tool/CLOVA-tool
-    image: ./assets/img/cvpr2024.png
+    image: ./assets/img/facial.png
     #page: https://clova-tool.github.io/
     # notes: Post
