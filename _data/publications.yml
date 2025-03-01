@@ -2,7 +2,7 @@ main:
 
 
   - title: "MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation"
-    authors: <strong>Jiehao Luo*</strong>, Jintao Cheng*, Xiaoyu Tang , Qingwen Zhang, Bohuan Xue, Rui Fan (*Co-first author)
+    authors: <strong>Jiehao Luo*</strong>, Jintao Cheng*, Xiaoyu Tang, Qingwen Zhang, Bohuan Xue, Rui Fan (*Co-first author)
     conference_short: arXiv
     conference: arXiv, 2025
     pdf: https://arxiv.org/abs/2502.16907
