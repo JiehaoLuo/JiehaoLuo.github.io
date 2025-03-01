@@ -39,7 +39,7 @@ main:
     conference_short: 华南师范大学学报
     conference: 华南师范大学学报, 2024.
     pdf: https://drive.google.com/file/d/1O6Z_EqfePBlPVVsptZBhrSizx07M7cGp/view?usp=drive_link
-    image: ./assets/img/frcnn.png
+    image: ./assets/img/frnnc.png
     # notes: Post
 
 
