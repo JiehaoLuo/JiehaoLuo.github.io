@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently an undergraduate student pursuing a Bachelor's degree in Internet of Things Engineering at the School of Data Science and Engineering, South China Normal University (华南师范大学数据科学与工程学院), and supervised by Associate Professor Xiaoyu Tang. I also serve as a member of the Robotic and Intelligent Sensing Laboratory (RIS LAB, 机器人与智能感知实验室).
+I am currently an junior-year student pursuing a Bachelor's degree in Internet of Things Engineering at the School of Data Science and Engineering, South China Normal University (华南师范大学数据科学与工程学院), and supervised by Associate Professor Xiaoyu Tang. I also serve as a member of the Robotic and Intelligent Sensing Laboratory (RIS LAB, 机器人与智能感知实验室).
 
 
 **E-mail**: 20228132034@m.scnu.edu.cn and 2572148887@qq.com
