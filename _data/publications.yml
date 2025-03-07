@@ -37,7 +37,7 @@ main:
   - title: "基于改进Faster R-CNN的电力检修工程智慧监测"
     authors: 唐小煜, <strong>罗杰豪</strong>, 黄声勇
     conference_short: 华南师范大学学报
-    conference: 华南师范大学学报, 2024.
+    conference: 华南师范大学学报, 2024
     pdf: https://drive.google.com/file/d/1O6Z_EqfePBlPVVsptZBhrSizx07M7cGp/view?usp=drive_link
     image: ./assets/img/frnnc.png
     # notes: Post
