@@ -16,7 +16,7 @@ main:
     authors: <strong>Jiehao Luo*</strong>, Jintao Cheng, Qiuchi Xiang, Jin Wu, Rui Fan, Xieyuanli Chen, Xiaoyu Tang
     conference_short: RA-L
     conference: RA-L, 2025
-    pdf: https://arxiv.org/abs/2405.07966
+    pdf: https://ieeexplore.ieee.org/document/11045950
     code: https://github.com/SCNU-RISLAB/OverlapMamba
     image: ./assets/img/olm.png
     # page: https://mat-agent.github.io/
