@@ -1,5 +1,15 @@
 main:
 
+  - title: "A Pseudo Global Fusion Paradigm-Based Cross-View Network for LiDAR-Based Place Recognition"
+    authors: Jintao Cheng, <strong>Jiehao Luo</strong>, Xieyuanli Chen, Jin Wu, Rui Fan, Xiaoyu Tang, Wei Zhang
+    conference_short: arXiv
+    conference: arXiv, 2025
+    pdf: https://arxiv.org/pdf/2508.08917
+    #code: https://github.com/SCNU-RISLAB/MambaFlow
+    image: ./assets/img/pseudo.jpg
+    # page: https://mat-agent.github.io/
+    # notes: Post
+
 
   - title: "MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation"
     authors: <strong>Jiehao Luo*</strong>, Jintao Cheng*, Xiaoyu Tang, Qingwen Zhang, Bohuan Xue, Rui Fan (*Co-first author)
