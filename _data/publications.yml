@@ -25,7 +25,7 @@ main:
   - title: "OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition"
     authors: <strong>Jiehao Luo*</strong>, Jintao Cheng, Qiuchi Xiang, Jin Wu, Rui Fan, Xieyuanli Chen, Xiaoyu Tang
     conference_short: RA-L
-    conference: RA-L, 2025
+    conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2025
     pdf: https://ieeexplore.ieee.org/document/11045950
     code: https://github.com/SCNU-RISLAB/OverlapMamba
     image: ./assets/img/olm.png
