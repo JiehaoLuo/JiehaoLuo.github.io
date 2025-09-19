@@ -1,5 +1,15 @@
 main:
 
+  - title: "Scale, Don't Fine-tune: Guiding Multimodal LLMs for Efficient Visual Place Recognition at Test-Time"
+    authors: Jintao Cheng, Weibin Li, <strong>Jiehao Luo</strong>, Xiaoyu Tang, Zhijian He, Jin Wu, Yao Zou, Wei Zhang
+    conference_short: arXiv
+    conference: arXiv, 2025
+    pdf: https://arxiv.org/pdf/2509.02129
+    #code: https://github.com/SCNU-RISLAB/MambaFlow
+    image: ./assets/img/tts.jpg
+    # page: https://mat-agent.github.io/
+    # notes: Post
+
   - title: "A Pseudo Global Fusion Paradigm-Based Cross-View Network for LiDAR-Based Place Recognition"
     authors: Jintao Cheng, <strong>Jiehao Luo</strong>, Xieyuanli Chen, Jin Wu, Rui Fan, Xiaoyu Tang, Wei Zhang
     conference_short: arXiv
