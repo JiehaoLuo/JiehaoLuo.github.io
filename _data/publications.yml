@@ -11,7 +11,7 @@ main:
     # notes: Post
 
   - title: "A Pseudo Global Fusion Paradigm-Based Cross-View Network for LiDAR-Based Place Recognition"
-    authors: Jintao Cheng, <strong>Jiehao Luo</strong>, Xieyuanli Chen, Jin Wu, Rui Fan, Xiaoyu Tang, Wei Zhang
+    authors: Jintao Cheng*, <strong>Jiehao Luo</strong>*, Xieyuanli Chen*, Jin Wu, Rui Fan, Xiaoyu Tang, Wei Zhang (*Co-first author)
     conference_short: arXiv
     conference: arXiv, 2025
     pdf: https://arxiv.org/pdf/2508.08917
@@ -22,7 +22,7 @@ main:
 
 
   - title: "MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation"
-    authors: <strong>Jiehao Luo</strong>, Jintao Cheng*, Xiaoyu Tang, Qingwen Zhang, Bohuan Xue, Rui Fan (*Co-first author)
+    authors: <strong>Jiehao Luo*</strong>, Jintao Cheng*, Xiaoyu Tang, Qingwen Zhang, Bohuan Xue, Rui Fan (*Co-first author)
     conference_short: arXiv
     conference: arXiv, 2025
     pdf: https://arxiv.org/abs/2502.16907
@@ -33,7 +33,7 @@ main:
 
 
   - title: "OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition"
-    authors: <strong>Jiehao Luo*</strong>, Jintao Cheng, Qiuchi Xiang, Jin Wu, Rui Fan, Xieyuanli Chen, Xiaoyu Tang
+    authors: <strong>Jiehao Luo</strong>, Jintao Cheng, Qiuchi Xiang, Jin Wu, Rui Fan, Xieyuanli Chen, Xiaoyu Tang
     conference_short: RA-L
     conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2025
     pdf: https://ieeexplore.ieee.org/document/11045950
